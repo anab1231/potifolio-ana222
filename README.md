@@ -38,7 +38,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 ---
 
-### 📅 Cronograma de Atividades Acadêmicas (Sprints)
+### ### 📂 Portfólio de Projetos
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
@@ -51,7 +51,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 ---
 
-### 📂 Portfólio de Projetos
+### 📂 Portfólio de Projetos visual estudios 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
