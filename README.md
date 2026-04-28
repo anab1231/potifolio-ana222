@@ -51,7 +51,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 ---
 
-### 📂 Portfólio de Projetos visual estudios 
+### 📂 Portfólio de Projetos visual code
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
