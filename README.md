@@ -1,7 +1,7 @@
 
-# 🎓 Portfólio Acadêmico - Engenharia de Software 2026
+# 🎓 Portfólio Acadêmico - desevolvimento de sistemas 2026
 > [cite_start]**Estudante:** Ana Beatris Alves da Silva [cite: 1]
-> **Instituição:** UNICID / Obra Social Dom Bosco
+> **Instituição:** UNICID 
 
 ---
 
@@ -14,13 +14,13 @@ Este repositório contém a progressão técnica e as atividades práticas reali
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 | (projeto) ✅ Concluído |
-| **SM2 - Lab. de Classificação Visual** | Modelagem e análise de viés em Visão Computacional. | 09/03 | (projeto) ✅ Concluído |
-| **SM3 - Batalha de Modelos (XML)** | Engenharia de Prompt estruturada para geração de código. | 23/03 | (projeto) ✅ Concluído |
-| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de sistemas. | 31/03 | (projeto) ✅ Concluído |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | (projeto) ✅ Concluído |
-| **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com recursos de IA. | 22/04 | (projeto) ✅ Concluído |
-| **SM8 - Portfólio Profissional** | Estruturação e documentação final no GitHub. | 27/04 | (projeto) 🚀 Em progresso |
+| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 | (projeto)
+| **SM2 - Lab. de Classificação Visual** | Modelagem e análise de viés em Visão Computacional. | 09/03 | 
+| **SM3 - Batalha de Modelos (XML)** | Engenharia de Prompt estruturada para geração de código. | 23/03 | 
+| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de sistemas. | 31/03 | 
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 |  
+| **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com recursos de IA. | 22/04  
+
 
 ---
 
