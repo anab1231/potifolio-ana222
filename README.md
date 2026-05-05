@@ -45,6 +45,13 @@ Acredito que com foco e fé, tudo é possível! ✨
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+### 📂 Portfólio de Projetos
+ 
+#### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+
 
 ### 🤖 Inteligência Artificial 
 
@@ -60,12 +67,6 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 
 ---
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
 
 ### 📂 Portfólio de Projetos
