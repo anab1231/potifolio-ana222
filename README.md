@@ -34,7 +34,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
  
-#### 🤖 Inteligência Artificial & Ciência de Dados
+#### 🤖 Inteligência Artificial & Ciência de Dado
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
@@ -46,7 +46,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-### 🤖 Inteligência Artificial & Inovação
+### 🤖 Inteligência Artificial 
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
@@ -60,6 +60,13 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 
 ---
+### 📂 Portfólio de Projetos
+ 
+#### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+ 
 
 ### 📂 Portfólio de Projetos
 
